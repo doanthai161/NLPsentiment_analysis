@@ -88,7 +88,6 @@ print('Training features matrix is: ', X_train_pca.shape)
 print('Test features matrix is: ', X_test_pca.shape)
 
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, confusion_matrix
 
 lr = LogisticRegression()
 lr.fit(X_train_pca,y_train)
