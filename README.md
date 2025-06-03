@@ -1,6 +1,6 @@
 
 ## INTRODUTION
-This project implements a sentiment analysis model using various machine learning algorithms. The model is trained on a labeled dataset of text samples, where the goal is to classify the sentiment expressed in the text as positive, negative, or neutral.
+This project implements a sentiment analysis model using various machine learning algorithms. The model is trained on a labeled dataset of text samples, where the goal is to classify the sentiment expressed in the text as positive, negative, or neutral. 
 
 ## Requirements
 To run this code, you need the following Python libraries:
